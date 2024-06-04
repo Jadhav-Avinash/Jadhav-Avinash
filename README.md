@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jadhav-Avinash
-- 👀 I’m interested in backend development 
+- 👀 I’m interested in Full Stack Java development 
 - 🌱 I’m currently learning computer science and engineering 
 - 💞️ I’m looking to collaborate on data security 
 - 📫 How to reach me my mail id jadhavavinash82616@gmail.com
